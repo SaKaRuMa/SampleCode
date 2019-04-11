@@ -1,4 +1,4 @@
-var substaion = {
+var data = {
 	"type" : "FeatureCollection",
 	"name" : "Substation_Point",
 	"features" : [
