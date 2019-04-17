@@ -1,0 +1,3430 @@
+{
+	"RecordSet" : {
+		"geometryType" : "esriGeometryPoint",
+		"spatialReference" : {
+			"wkid" : 4326
+		},
+		"features" : [
+			{
+				"geometry" : {
+					"x" : 100.4671406745,
+					"y" : 14.5866031853,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อ่างทอง 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.345060921,
+					"y" : 14.6113177474,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อ่างทอง 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.9290088237,
+					"y" : 13.1265370877,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อ่าวไผ่"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.9108460937,
+					"y" : 13.1153297393,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อ่าวอุดม"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.552816768,
+					"y" : 14.3643959198,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อยุธยา 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.6036432091,
+					"y" : 14.3821732454,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อยุธยา 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.222119845,
+					"y" : 13.2188178238,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บ้านบึง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.9590095668,
+					"y" : 13.7908214964,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บ้านโป่ง 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.8698538075,
+					"y" : 13.8522045596,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บ้านโป่ง 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.6014306458,
+					"y" : 13.7422227364,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บางกะปิ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.9247357334,
+					"y" : 12.9392322744,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บางละมุง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.5867037809,
+					"y" : 14.2124631917,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บางปะอิน 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.6103120712,
+					"y" : 14.1977426594,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บางปะอิน 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.0260608776,
+					"y" : 13.5037757143,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บางปะกง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.6897551546,
+					"y" : 13.6405647297,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บางพลี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.5074288168,
+					"y" : 11.4051645746,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บางสะพาน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.5114167138,
+					"y" : 11.4223827213,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บางสะพาน2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.3909021311,
+					"y" : 13.7097224473,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บางกอกน้อย"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.0727707329,
+					"y" : 13.0758908217,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บ่อวิน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.9573565929,
+					"y" : 12.8156186486,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ชะอำ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.0333240215,
+					"y" : 13.6255704705,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ฉะเชิงเทรา"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.5553230066,
+					"y" : 13.9088752653,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.แจ้งวัฒนะ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.1038466439,
+					"y" : 15.2060042029,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ชัยบาดาล"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.6693256395,
+					"y" : 13.6386065818,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.จอมบึง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.9216811666,
+					"y" : 12.8589603116,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.จอมเทียน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.9913881514,
+					"y" : 13.339480741,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ชลบุรี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.9187524288,
+					"y" : 12.5703589186,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.หัวหิน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.6307288032,
+					"y" : 12.9158849958,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.แก่งกระจาน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.9948353911,
+					"y" : 13.9883066111,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.กำแพงแสน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.5415583302,
+					"y" : 14.0249637804,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.กาญจนบุรี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.5977770163,
+					"y" : 14.7957243022,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.วชิราลงกรณ์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.9934474666,
+					"y" : 13.5691712496,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.คลองใหม่"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.6671466037,
+					"y" : 12.8075847182,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.แกลง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.553102422,
+					"y" : 13.8277704968,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ลาดพร้าว"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.6516871404,
+					"y" : 14.7915859943,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ลพบุรี 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.6239117139,
+					"y" : 14.8490810947,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ลพบุรี 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.1887036182,
+					"y" : 13.7502716496,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.นครชัยศรี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.0473096332,
+					"y" : 14.2753537435,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.นครนายก"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.8077932051,
+					"y" : 13.8105532492,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.หนองจอก"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.5117187705,
+					"y" : 13.8113822071,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.พระนครเหนือ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.6847545871,
+					"y" : 13.7255581311,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อ่อนนุช"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.7788991767,
+					"y" : 14.4046739512,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ภาชี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.9417990085,
+					"y" : 13.0905973731,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.เพชรบุรี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.7852821819,
+					"y" : 14.7515910398,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.พระพุทธบาท"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.3182814595,
+					"y" : 14.1452565751,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ปราจีนบุรี 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.5454800258,
+					"y" : 13.8402830865,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ปราจีนบุรี 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.7373956238,
+					"y" : 11.8326348335,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ประจวบคีรีขันธ์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.8845922381,
+					"y" : 12.3587076328,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ปราณบุรี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.5683764516,
+					"y" : 13.9752593118,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.รังสิต"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.7998668642,
+					"y" : 13.5294507203,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ราชบุรี 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.7932010248,
+					"y" : 13.5044525726,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ราชบุรี 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.8840214673,
+					"y" : 13.6000013296,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ราชบุรี 3"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.5836543494,
+					"y" : 13.7774967817,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.รัชดาภิเษก"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.2727513546,
+					"y" : 12.6898115021,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ระยอง 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.1613751194,
+					"y" : 12.7561931007,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ระยอง 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.1386003754,
+					"y" : 12.7206404891,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ระยอง 3"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.339793808,
+					"y" : 13.9716455087,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ไทรน้อย"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.2923036093,
+					"y" : 13.6899996711,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สามพราน 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.2284219428,
+					"y" : 13.7322185687,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สามพราน 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.282028197,
+					"y" : 13.5938959541,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สมุทรสาคร 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.2303683216,
+					"y" : 13.5402884158,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สมุทรสาคร 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.3328548717,
+					"y" : 13.5963964245,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สมุทรสาคร 3"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.1314919587,
+					"y" : 13.5114003663,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สมุทรสาคร 4"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.0620574686,
+					"y" : 13.4439046825,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สมุทรสงคราม"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.9147147575,
+					"y" : 14.5132784423,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สระบุรี 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.0827474648,
+					"y" : 14.6141060253,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สระบุรี 2(ใหม่)"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.0408082712,
+					"y" : 14.6388255017,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สระบุรี 3"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.8652774342,
+					"y" : 14.4085628667,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สระบุรี 4"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.9075173071,
+					"y" : 12.7517462373,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สัตหีบ 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.9522359087,
+					"y" : 12.6678641265,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สัตหีบ 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.9422306191,
+					"y" : 13.1611596636,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ศรีราชา"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.4372684998,
+					"y" : 14.8757433225,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สิงห์บุรี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.557826733,
+					"y" : 13.619731583,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.พระนครใต้"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.4239538269,
+					"y" : 13.6527822739,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ธนบุรีใต้"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.1338260408,
+					"y" : 14.4074283108,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ศรีนครินทร์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.1303673889,
+					"y" : 14.4907692005,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สุพรรณบุรี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.2861696038,
+					"y" : 15.248766735,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ตาคลี 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.2368715268,
+					"y" : 14.2343883356,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ท่าทุ่งนา"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.7686198584,
+					"y" : 14.5785482892,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ท่าลาน 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.7580662904,
+					"y" : 14.5702157877,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ท่าลาน 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.801949702,
+					"y" : 14.5804936125,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ท่าลาน 3"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.6625356878,
+					"y" : 13.6280653286,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.เทพารักษ์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.7786237833,
+					"y" : 14.2296875129,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.วังน้อย"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.7276543388,
+					"y" : 15.4640495828,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บำเหน็จณรงค์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.685419085,
+					"y" : 16.5367424914,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.จุฬาภรณ์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.7931859971,
+					"y" : 16.4092543836,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ห้วยกุ่ม"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.5450578279,
+					"y" : 14.807618273,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ลำตะคอง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.735396897,
+					"y" : 17.4036180788,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.เลย"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.4468682323,
+					"y" : 14.6991047434,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ปากช่อง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.7718255479,
+					"y" : 14.8699293731,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สีคิ้ว"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.530781806,
+					"y" : 18.5284706518,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บ้านขุนกลาง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.0923522271,
+					"y" : 19.801705621,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บ้านยาง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.3919779934,
+					"y" : 16.0253735437,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บางมูลนาก"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.9876898958,
+					"y" : 17.2399749201,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.เขื่อนภูมิพล"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.9746365105,
+					"y" : 17.2427524864,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.โรงจักรไฟฟ้าเขื่อนภูมิพล"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.9927392745,
+					"y" : 15.8312312811,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บึงสามพัน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.0079380958,
+					"y" : 18.7681803122,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.เชียงใหม่ 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.9979385788,
+					"y" : 18.8109545183,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.เชียงใหม่ 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.9423924567,
+					"y" : 18.7173505066,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.เชียงใหม่ 3"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.854475119,
+					"y" : 19.8517152294,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.เชียงราย"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.6893740476,
+					"y" : 18.4387588564,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.จอมทอง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.1259193416,
+					"y" : 14.803521577,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.เดิมบางนางบวช"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.155395804,
+					"y" : 19.9647477335,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ฝาง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.4843061828,
+					"y" : 16.5055988759,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.กำแพงเพชร"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.451779959,
+					"y" : 18.2487875202,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ลำปาง 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.5689849828,
+					"y" : 18.3585023245,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ลำปาง 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.0404364536,
+					"y" : 18.632637326,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ลำพูน 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.0526565154,
+					"y" : 18.6526358431,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ลำพูน 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.8708982051,
+					"y" : 16.6300978692,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ลานกระบือ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.2210278411,
+					"y" : 16.7611608868,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.หล่มสัก"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 97.9844514028,
+					"y" : 19.1834056683,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.แม่ฮ่องสอน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.711733126,
+					"y" : 18.2938638714,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.แม่เมาะ 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.748963153,
+					"y" : 18.2998992847,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.แม่เมาะ 3"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.6997896916,
+					"y" : 18.3342587038,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.แม่เมาะมายด์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.0354270904,
+					"y" : 19.1625922907,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.แม่งัด"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.5983040503,
+					"y" : 16.7186230395,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.แม่สอด"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.1048034475,
+					"y" : 15.3001490223,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.มโนรม"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.1022973964,
+					"y" : 15.7065056382,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.นครสวรรค์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.7552159175,
+					"y" : 18.7407132945,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.น่าน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.8686522193,
+					"y" : 19.2153805184,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.พะเยา"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.0854971702,
+					"y" : 16.337303545,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.เพชรบูรณ์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.3850265706,
+					"y" : 16.4622823721,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.พิจิตร"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.2383725737,
+					"y" : 16.8366947753,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.พิษณุโลก 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.1564361318,
+					"y" : 16.937796247,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.พิษณุโลก 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.1397509406,
+					"y" : 18.1174211398,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.แพร่"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.7892762571,
+					"y" : 15.98203487,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สลกบาตร"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.24374041,
+					"y" : 18.7920713145,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สันกำแพง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.8956289963,
+					"y" : 17.339981164,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สวรรคโลก"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.5641479651,
+					"y" : 17.7607908021,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สิริกิตต์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.8250872486,
+					"y" : 17.0341720779,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สุโขทัย"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.1318445444,
+					"y" : 16.8841735017,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ตาก 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.1412885899,
+					"y" : 16.8091798064,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ตาก 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.4305909994,
+					"y" : 15.6040187116,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ท่าตะโก"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.2382073719,
+					"y" : 17.6255029381,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.เถิน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.2280406491,
+					"y" : 19.7367319635,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.เทิง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.0814337015,
+					"y" : 17.6085731561,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อุตรดิตถ์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.3434017042,
+					"y" : 9.0870113398,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บ้านดอน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.2961224392,
+					"y" : 6.1401273286,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บ้านสันติ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.2678145611,
+					"y" : 6.1608329519,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บางลาง1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.2705922486,
+					"y" : 6.1575001955,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บางลาง2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.1147086988,
+					"y" : 10.5035621792,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ชุมพร"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.4328207257,
+					"y" : 6.9961454372,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.หาดใหญ่ 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.4910290471,
+					"y" : 6.9677130816,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.หาดใหญ่ 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.8586136289,
+					"y" : 9.2341172109,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ขนอม"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.4520379433,
+					"y" : 6.7167777462,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.คลองแงะ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.0486275042,
+					"y" : 7.9904118272,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.กระบี่1(เก่า)"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.0441830166,
+					"y" : 7.9948564749,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.กระบี่2(ใหม่)"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.5911867842,
+					"y" : 7.6925645969,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ลำภูรา"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.0619418863,
+					"y" : 10.0174868437,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.หลังสวน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.9629564736,
+					"y" : 8.401223362,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.นครศรีธรรมราช"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.7866397189,
+					"y" : 6.4222075222,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.นราธิวาส"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.2628106942,
+					"y" : 6.8463420795,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ปัตตานี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.515673962,
+					"y" : 8.5177566578,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.พังงา"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.0249000851,
+					"y" : 7.6004467816,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.พัทลุง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.393394908,
+					"y" : 7.9160668724,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ภูเก็ต 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.3426828207,
+					"y" : 7.8604338634,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ภูเก็ต 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.2571512301,
+					"y" : 9.0860663326,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.พุนพิน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.8071124713,
+					"y" : 8.9707140125,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.รัชชประภา"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.5914465105,
+					"y" : 9.7441688962,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ระนอง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.3534695338,
+					"y" : 7.8173788997,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ระโนด"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.402059633,
+					"y" : 6.6328612468,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สะเดา"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.070727515,
+					"y" : 6.6858883951,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สตูล"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.5693924871,
+					"y" : 7.1166430126,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สงขลา"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.9146970441,
+					"y" : 6.0238448599,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สุไหงโกลก"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.2229368982,
+					"y" : 9.0719157149,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สุราษฎร์ธานี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.3576591201,
+					"y" : 8.8428931567,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ตะกั่วป่า"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.6668837392,
+					"y" : 8.132073303,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ทุ่งสง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.2678676654,
+					"y" : 6.4991818393,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ยะลา1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.2650348927,
+					"y" : 6.4772003767,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ยะลา2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.6282151935,
+					"y" : 13.9760797381,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ท่าม่วง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.2491419751,
+					"y" : 12.7861919575,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บ้านค่าย"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.9186256097,
+					"y" : 20.1989087367,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.แม่จัน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.1922022994,
+					"y" : 12.9853432142,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ปลวกแดง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.5849178678,
+					"y" : 13.9305547551,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ศรีมหาโพธิ์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.1165378075,
+					"y" : 12.665657131,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.จันทบุรี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.2873313924,
+					"y" : 13.9688948264,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ช่องกล่ำ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.4909415724,
+					"y" : 12.2812453395,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ตราด"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.2417849484,
+					"y" : 13.7683543201,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.วัฒนานคร"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 104.6314613173,
+					"y" : 15.8087932798,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อำนาจเจริญ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.724466076,
+					"y" : 16.0801287323,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บ้านไผ่"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.6356980057,
+					"y" : 18.3180251268,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บึงกาฬ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.1069377328,
+					"y" : 15.0241052158,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บุรีรัมย์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.088714666,
+					"y" : 15.828193896,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ชัยภูมิ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.0639827592,
+					"y" : 16.5606359409,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ชุมแพ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.5488037477,
+					"y" : 16.3795646681,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.กาฬสินธุ์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 104.6628660528,
+					"y" : 14.7272086531,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.กัณทรลักษณ์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.8177815875,
+					"y" : 16.4120494485,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ขอนแก่น 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.8736076326,
+					"y" : 16.4176049741,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ขอนแก่น 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.7465540282,
+					"y" : 16.4158322888,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ขอนแก่น 3"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.417294314,
+					"y" : 15.298240278,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.คง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.3146689962,
+					"y" : 16.1820758618,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.มหาสารคาม"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 104.6958834142,
+					"y" : 16.5429057448,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.มุกดาหาร 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 104.7039371195,
+					"y" : 16.6095678055,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.มุกดาหาร 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 104.7578037921,
+					"y" : 17.383675344,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.นครพนม"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.1020609843,
+					"y" : 14.9943697899,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.นครราชสีมา 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.0217935406,
+					"y" : 14.9507609227,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.นครราชสีมา 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.7944465745,
+					"y" : 16.6745284999,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.น้ำพอง 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.7430637789,
+					"y" : 16.6806381256,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.น้ำพอง 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.9862389063,
+					"y" : 16.9745264609,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.น้ำพุง69"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.9712406502,
+					"y" : 16.9786918618,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.น้ำพุง115"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.4039282003,
+					"y" : 17.2300327473,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.หนองบัวลำภู"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.2057707399,
+					"y" : 17.3603149047,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.หนองหาน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.756928841,
+					"y" : 17.8219369507,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.หนองคาย"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 105.4647043796,
+					"y" : 15.2821811728,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ปากมูล"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.7120974489,
+					"y" : 17.369212587,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.พังโคน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.1758082833,
+					"y" : 15.5512880758,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.พยัคฆภูมิพิสัย"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.5780998575,
+					"y" : 15.8079254469,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.พล"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.9068177493,
+					"y" : 16.2962433976,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.โพนทอง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.0561122213,
+					"y" : 14.6619897143,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ประโคนชัย"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.6476863545,
+					"y" : 16.0770897008,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ร้อยเอ็ด1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.5113130614,
+					"y" : 16.1254166259,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ร้อยเอ็ด2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 104.1198302281,
+					"y" : 17.1442377658,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สกลนคร1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 104.1176060049,
+					"y" : 17.267006178,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สกลนคร2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 104.345675074,
+					"y" : 15.0727326946,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ศรีษะเกษ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 105.4277661822,
+					"y" : 15.2060741504,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สิรินธร"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.7312758715,
+					"y" : 16.6742671025,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สมเด็จ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.5082789444,
+					"y" : 14.9102312511,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สุรินทร์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 104.6897653479,
+					"y" : 16.9323198239,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ธาตุพนม"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.6186323132,
+					"y" : 16.7759054676,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อุบลรัตน์"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 104.8583878766,
+					"y" : 15.2774480537,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อุบลราชธานี1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 104.8906082798,
+					"y" : 15.1524579062,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อุบลราชธานี2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.7902651679,
+					"y" : 17.4494672478,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อุดรธานี 1"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.8516480878,
+					"y" : 17.3736403815,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อุดรธานี 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 104.1915145786,
+					"y" : 15.7979534276,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ยโสธร"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.8077818258,
+					"y" : 16.4656560882,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.มหาวิทยาลัยขอนแก่น"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.1988210347,
+					"y" : 17.6861219999,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บ้านดุง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.8135242981,
+					"y" : 14.6580330845,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สังขะ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.3070694678,
+					"y" : 12.754820012,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.คิรีธาร"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.5165517158,
+					"y" : 8.5136941581,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.พังงา 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.0918110807,
+					"y" : 15.8659695698,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ชัยภูมิ 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.5289773765,
+					"y" : 14.8149938526,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ท่าวุ้ง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.2357907541,
+					"y" : 9.0654558972,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สุราษฎร์ธานี2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.3663308476,
+					"y" : 7.9606870217,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ภูเก็ต 3"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.9373302926,
+					"y" : 17.3519546482,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อุดรธานี 3"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 104.6993255604,
+					"y" : 15.3285120696,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อุบลราชธานี 3"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.0252649871,
+					"y" : 14.6037438123,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.แก่งคอย"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.1594717846,
+					"y" : 13.60980545,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ฉะเชิงเทรา2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.7922099274,
+					"y" : 14.0285852895,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.กบินทร์บุรี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.496729959,
+					"y" : 14.0701865555,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สามโคก"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.0899594332,
+					"y" : 14.7435719849,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.นครราชสีมา 3"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.4779620614,
+					"y" : 6.7919156034,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สงขลา 3"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.7824888422,
+					"y" : 14.8713951203,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ. สีคิ้ว 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.7619476472,
+					"y" : 14.4240108923,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ภาชี 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.7760893947,
+					"y" : 14.4417371715,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "โรงไฟฟ้า กัลฟ์ เจพี เอ็นเอส"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.3032657273,
+					"y" : 15.3726328657,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ห้วยหวาย"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.0665686417,
+					"y" : 13.4460070618,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.พานทอง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.3343194037,
+					"y" : 12.6757056887,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.เชิงเนิน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.7367588321,
+					"y" : 18.280625503,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.แม่เมาะ 4"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.698711076,
+					"y" : 13.9370828452,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ลำลูกกา"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.6963220045,
+					"y" : 14.5857585429,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อยุธยา 4"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.8798863748,
+					"y" : 14.3562975106,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สระบุรี 5"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.6950425163,
+					"y" : 14.3333304336,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "โรงไฟฟ้า กัลฟ์ เจ พี ยูที"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.0259326408,
+					"y" : 13.5093264968,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บางปะกง 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.9097163709,
+					"y" : 14.7117775381,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สระบุรี6"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 102.586597996,
+					"y" : 16.4734535845,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ขอนแก่น 4"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.0778071638,
+					"y" : 18.5245597208,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ลำพูน 3"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 103.5181961536,
+					"y" : 14.9039789137,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.สุรินทร์ 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.7060189823,
+					"y" : 6.9564622333,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "โรงไฟฟ้าจะนะ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.845036,
+					"y" : 13.5576720006,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.คลองด่าน"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.4386298398,
+					"y" : 17.6634166046,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ท่าลี่"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.0014264095,
+					"y" : 13.203700405,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ชลบุรี 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.9793719395,
+					"y" : 13.0093551033,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บางละมุง2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.3630692282,
+					"y" : 15.2228675445,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ตาคลี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.1555621147,
+					"y" : 12.9552612225,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "โรงไฟฟ้ากัลฟ์ พี ดี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.1972570885,
+					"y" : 13.0503995534,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "โรงไฟฟ้ากัลฟ์ เอส อาร์ ซี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.5669067877,
+					"y" : 14.4247934746,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อยุธยา3"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.1088941081,
+					"y" : 12.7354602091,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ระยอง 4"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.2715920911,
+					"y" : 17.6508114872,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ผาจุก"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 98.8723124583,
+					"y" : 19.0873776489,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.แม่แตง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.4153938768,
+					"y" : 18.3711926662,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.ห้างฉัตร"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.1126780435,
+					"y" : 17.0745755863,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.พรหมพิราม"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.6680404705,
+					"y" : 16.2926679937,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.อัครา ไมนิ่ง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 104.7200188408,
+					"y" : 17.4947381229,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.นครพนม 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.7568592621,
+					"y" : 15.7831210242,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.หนองบัวระเหว"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.5655534827,
+					"y" : 14.8318612536,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.เขายายเที่ยง"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.6106813823,
+					"y" : 14.1157044569,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.นวนคร"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.8424373783,
+					"y" : 13.4935937396,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "โรงไฟฟ้าพลังความร้อนร่วมบางบ่อ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.9080999716,
+					"y" : 13.1115256461,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "บริษัท โกลบอล เพาเวอร์ ซินเนอร์ยี่ จ"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.1351428139,
+					"y" : 12.6747358127,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "โรงไฟฟ้านิคมมาบตาพุต"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.1612348833,
+					"y" : 12.6466879567,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "โรงไฟฟ้าบีแอลซีพี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.4987352114,
+					"y" : 14.1259724533,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.กาญจนบุรี 2"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.7419327156,
+					"y" : 13.534985359,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "โรงไฟฟ้าไตรเอ็นเนอจี้"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 100.1497817782,
+					"y" : 8.0876459366,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.เชียรใหญ่"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 99.8182805989,
+					"y" : 13.5792451849,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สถานีสูบน้ำโรงไฟฟ้าราชบุรี"
+				}
+			},
+			{
+				"geometry" : {
+					"x" : 101.21662441,
+					"y" : 13.2215864982,
+					"spatialReference" : {
+						"wkid" : 4326
+					}
+				},
+				"attributes" : {
+					"SUBNAME_T" : "สฟ.บ้านบึง 2"
+				}
+			}
+		]
+	}
+}
